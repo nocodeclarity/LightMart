@@ -22,6 +22,6 @@ Addtional features that could be added in LightMart, which may have to interact 
 
 + Clarity: Clarity smart contracts can be used to automate certain aspects of the transaction process, such as releasing funds after the buyer has received the product or service.
 
-It is important to note that LightMart is not a complete marketplace, it has not been audited, the legal implications have not been explored prior to the publishing of this open source script and the potential tax implications of LightMart may carry varying outputs of fiscal responisbility in various jurisdictions around the world. Use at your own risk. 
+It is important to note that the LightMart smart contract is not a complete marketplace, it has not been audited, the legal implications have not been explored prior to the publishing of this open source script and the potential tax implications of LightMart may carry varying outputs of fiscal responisbility in various jurisdictions around the world. Use at your own risk. 
 
 NoCodeClarity believes in the power of Bitcoin and Bitcoin layers such as Lightning so it's important that LightMart is open source.
